@@ -1,0 +1,2 @@
+k="karthik"
+print(k);
